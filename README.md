@@ -46,3 +46,11 @@ __About:__ At Innovar Healthcare, we specialize in moving data - from any source
 integration, messaging and interoperability solutions to healthcare organizations. Experience with: Epic, Allscripts, AthenaHealth, Cerner, Nextgen EMR, Nextgen Heath Data Hub, eClinicalWorks, and others
 
 ---
+### Spoderman
+
+__URL:__ <https://youtu.be/9MQmHQh2Jlc><br>
+__Location:__ Secret
+__Slack POC:__ @spoderman
+__Supported Regions:__ He'll come to you
+__Specialties:__ Mith
+__About:__ Spoderman dus whatev a spoder can
