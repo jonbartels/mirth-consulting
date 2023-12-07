@@ -49,8 +49,8 @@ integration, messaging and interoperability solutions to healthcare organization
 ### Spoderman
 
 __URL:__ <https://youtu.be/9MQmHQh2Jlc><br>
-__Location:__ Secret
-__Slack POC:__ @spoderman
-__Supported Regions:__ He'll come to you
-__Specialties:__ Mith
-__About:__ Spoderman dus whatev a spoder can
+__Location:__ Secret<br>
+__Slack POC:__ @spoderman<br>
+__Supported Regions:__ He'll come to you<br>
+__Specialties:__ Mith<br>
+__About:__ Spoderman dus whatev a spoder can<br>
