@@ -10,6 +10,10 @@ If you'd like to be listed, please open a PR or message me on slack ([@rogin](ht
 
 Right now they're to be ordered alphabetically on Company Name, but that may change.
 
+## Vendor listing via OpenIntegrationEngine
+
+Since Mirth Connect's source code is no longer open, dedicated community members now carry the torch through [OpenIntegrationEngine](https://github.com/OpenIntegrationEngine/engine). Vendors are encouraged to [join their list](https://github.com/OpenIntegrationEngine/vendors) to offer support and professional services.
+
 ## The List
 
 *Unless specifically mentioned in a 'Languages' callout, English is assumed.
